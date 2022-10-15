@@ -27,6 +27,9 @@ install all the modules in sequence.( I know you may face difficulties in instal
 STEP 4:
 
 this is to run the overall project.
+run the Startup.py file
+this file is connected with all other files. 
+if you find any error in images please correct the directory of the imported image.
 
 select a python interpreter with installed module and run the project.
 
